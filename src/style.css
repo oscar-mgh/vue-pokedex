@@ -1,0 +1,33 @@
+:root {
+  --brand: #236ddb;
+  --brand-hover: #1757b6;
+  --bg: #EAEAEA;
+  --text: #000;
+  --bg-card: #EDEDED;
+  --brand-dim: #174a97;
+}
+
+.dark {
+  --brand: #137a99;
+  --brand-hover: #0b6a86;
+  --bg: #121212;
+  --text: #f1f1f1;
+  --bg-card: #1e1e1e;
+  --brand-dim: #0d5166;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+* {
+  box-sizing: border-box;
+}
