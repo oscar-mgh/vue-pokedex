@@ -1,19 +1,19 @@
 :root {
-  --brand: #236ddb;
-  --brand-hover: #1757b6;
+  --brand: #4c52a8;
+  --brand-hover: #3949ab;
   --bg: #EAEAEA;
   --text: #000;
   --bg-card: #EDEDED;
-  --brand-dim: #174a97;
+  --brand-dim: #283593;
 }
 
 .dark {
-  --brand: #137a99;
-  --brand-hover: #0b6a86;
-  --bg: #121212;
-  --text: #f1f1f1;
-  --bg-card: #1e1e1e;
-  --brand-dim: #0d5166;
+  --brand: #4682b4;
+  --brand-hover: #36648b;
+  --bg: #1c2833;
+  --text: #cfd8dc;
+  --bg-card: #22313f;
+  --brand-dim: #274472;
 }
 
 body {
